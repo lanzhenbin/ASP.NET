@@ -1,0 +1,136 @@
+﻿/*20150624ÐÂÔö*/
+/*´ò¿ª¿´¿´¡¢ÁìÈ¡Àñ°ü¡¢Àñ°üÄÚÈÝ¹«ÓÃÑùÊ½start*/
+.db{text-indent:-999em;display: block;}
+.c:before,.c:after{content:"";display:table;}
+.c:after{clear:both;}
+.c{zoom:1;}
+.welc_p{width: 990px;height: 444px;position: relative;display: none;}
+.welc_p_left{float: left;width: 315px;height: 444px;}
+.welc_p_left .logo{width: 240px;height: 178px;top: 76px;left: 75px;}
+.welc_p_right{float: left;width: 465px;height: 344px;margin-left: 54px;}
+.welc_text{color: #ffffff;font-size: 16px;line-height: 26px;text-align: center;margin-top:156px;}
+.welc_text span{color: #ffd801;}
+.welc_text .welc_jh{color: #ffd801;text-decoration: underline;}
+.welc_text .welc_jh:hover{color: #ffd801;text-decoration: none;}
+.welc_b{width: 168px;height: 58px;background:url(http://ossweb-img.qq.com/images/tgclub/web201410/but.png) no-repeat;}
+.welc_close{display: block;color: #ffffff;font-size: 40px;width: 50px;height:50px;text-align: center;line-height: 50px;background-color:#244980;position: absolute;left: 940px;top: 0;text-decoration: none;}
+/*´ò¿ª¿´¿´¡¢ÁìÈ¡Àñ°ü¡¢Àñ°üÄÚÈÝ¹«ÓÃÑùÊ½end*/
+
+/*´ò¿ª¿´¿´ÑùÊ½start*/
+.welc_p_01{background: url(http://ossweb-img.qq.com/images/tgclub/web201410/pic_hyy_01.jpg) no-repeat;}
+.welc_p_01 .welc_open{margin-left: 120px;margin-top:124px;background-position: 0 0;}
+/*´ò¿ª¿´¿´ÑùÊ½end*/
+
+.welc_p_03{background: url(http://ossweb-img.qq.com/images/tgclub/web201410/pic_hyy_03.jpg) no-repeat;}
+.list-welc-tb{padding-top: 98px;padding-left:100px;}
+.list-welc-tb li{float: left;width: 86px;}
+.list-welc-tb li.list-welc-tb-add{background:url(http://ossweb-img.qq.com/images/tgclub/web201410/pic-add.png) no-repeat;width: 36px;height: 34px;margin: 32px 32px 0;}
+.welc_p-text{font-size: 16px;color: #ffd801;width: 100%;text-align: center;margin-top: 40px;}
+.welc_p-btn{background-position:-169px -119px;margin: 40px auto 0;}
+.welc_p-btn2{background-position: 0 -179px;margin: 40px auto 0;}
+
+
+/***20150710ÐÂÔöµÄÈý¸öµ¯´°ÑùÊ½ s***/
+.jz_dialog1{font-family:"Microsoft YaHei",Arial,Helvetica,sans-serif,"ËÎÌå";width:800px;height:220px;background:url(http://ossweb-img.qq.com/images/tgclub/web201410/jz_b1.jpg) no-repeat;outline:0;position:relative;color:#ffffff;padding-top:180px;}
+.jz_dia-close{display:block;width:29px;height:27px;background:url(http://ossweb-img.qq.com/images/tgclub/web201410/jz_close.jpg) no-repeat;position:absolute;right:0;top:0; text-indent:-9999px;}
+.jz_dia-con{width:394px;margin-left:345px;font-size:14px;}
+.jz_dia-con h3{height:30px;line-height:15px;margin-left:-24px;font-size:16px;font-weight:bold;}
+.jz_dia-con p{line-height:23px;}
+.jz_dia-con a{display:block;margin:10px auto;}
+.jz_dia-con .jz_btn1{width:135px;font-size:14px;color:#ffffff; text-decoration:none;margin-top:20px;}
+.jz_dia-con .jz_btn2{width:150px;height:43px;background:url(http://ossweb-img.qq.com/images/tgclub/web201410/jz_btn2.png) no-repeat;text-indent:-9999px;}
+ 
+.jz_dialog2{font-family:"Microsoft YaHei",Arial,Helvetica,sans-serif,"ËÎÌå";width:800px;height:200px;background:url(http://ossweb-img.qq.com/images/tgclub/web201410/jz_b2.jpg) no-repeat;outline:0;position:relative;color:#ffffff;padding-top:200px;}
+.jz_diacon2{width:400px;margin-left:345px;font-size:14px;}
+.jz_diacon2 h3{height:30px;line-height:15px;margin-left:-24px;font-size:16px;font-weight:bold;}
+.jz_diacon2 p{line-height:23px;}
+.jz_diacon2 .jz_btn2{display:block;margin:40px auto 0 auto;width:150px;height:43px;background:url(http://ossweb-img.qq.com/images/tgclub/web201410/jz_btn2.png) no-repeat;text-indent:-9999px;}
+.jz_dialog3{font-family:"Microsoft YaHei",Arial,Helvetica,sans-serif,"ËÎÌå";width:800px;height:215px;background:url(../xinyuetu/shengri.gif) no-repeat;outline:0;position:relative;color:#ffffff;padding-top:185px;}
+.jz_dia-close2{display:block;width:29px;height:27px;background:url(http://ossweb-img.qq.com/images/tgclub/web201410/jz_close2.jpg) no-repeat;position:absolute;right:0;top:0; text-indent:-9999px;}
+.jz_dialog3 .jz_btn3{display:block;width:127px;height:43px;background:url(http://ossweb-img.qq.com/images/tgclub/web201410/jz_btn1.png) no-repeat;position:absolute;right:188px;bottom:42px;text-indent:-9999px;}
+/***20150710ÐÂÔöµÄÈý¸öµ¯´°ÑùÊ½ e***//*  |xGv00|d57dd0912598cffca42228f285faec87 */
+
+/****20150819ÐÂÔöµ¯´°ÑùÊ½****/
+.jz1_dialog,#jz1_tc,.jz1_dia-close,.jz1_diacon,.jz1_diacon p,.jmore,.jck_btn,#jz2_tc,.jz2_diacon p,.jz2_diacon em,.j_xz{margin:0;padding:0;}
+.jz1_dialog{position:relative;outline:0;font-family: "Microsoft Yahei",Heiti, arial,helvetica,sans-serif !important;margin:0;padding:0;}
+#jz1_tc{width:812px;height:182px;background:url(http://ossweb-img.qq.com/images/tgclub/web201410/jz_tcbg1.jpg) no-repeat;padding-top:230px;}
+.jz1_dia-close{display:block;width:30px;height:30px;background:url(http://ossweb-img.qq.com/images/tgclub/web201410/jz_c1.jpg) no-repeat;position:absolute;top:6px;right:6px;text-indent:-9999px;}
+.jz1_diacon{width:410px;margin-left:337px;}
+.jz1_diacon p{color:#fff;font-size:14px;line-height:25px;text-align:center;}
+.jz1_diacon .jmore{display:block;width:200px;text-align:center;margin:10px auto;color:#fcff00;font-size:14px;}
+.jz1_diacon .jck_btn{display:block;width:152px;height:43px;background:url(http://ossweb-img.qq.com/images/tgclub/web201410/jz_btn1.png) no-repeat;margin:0 auto;text-indent:-9999px;}
+
+
+
+#jz2_tc{width:812px;height:412px;background:url(http://ossweb-img.qq.com/images/tgclub/web201410/jz_tcbg3.jpg) no-repeat;}
+
+.jz2_diacon p{position:absolute;bottom: 15px;left:20px;background-color: #FFFFFF;/* width: 30px; */padding-left: 9px;padding-right: 9px;}
+
+.jz2_diacon p{position:absolute;bottom:15px;left:20px;}
+.jz2_diacon span{float:left;font-size:14px;color:#0069b3;line-height:20px;}
+.j_xz{float:left;width:22px;height:17px;background:url(http://ossweb-img.qq.com/images/tgclub/web201410/jico.png) no-repeat;cursor:pointer;}
+.jz2_diacon.on .j_xz{background:url(http://ossweb-img.qq.com/images/tgclub/web201410/jico_h.png) no-repeat;}
+
+/****20161024ÐÂÔöµ¯´°ÑùÊ½****/
+
+#jz3_tc{width:940px;height:444px;}
+#jz3_tc img{width:100%;height:100%;}
+
+
+/*ÖÒ³Ï¶Èµ¯¿òÑùÊ½*/
+.new_pop_tc { position:relative; outline:none; display:none; width:595px; height:652px;  overflow:hidden;}
+.new_pop_one { background:url(http://ossweb-img.qq.com/images/chanpin/tgclub/public/a20160224xinyzc/pop_bg1.png) no-repeat center; width:595px; height:652px; position:relative; z-index:3;}
+.new_tc_p1 { color:#ffdfb0; font-size:16px; line-height:24px; width:100%; text-align:center; position:absolute; top:448px; left:0;}
+.new_tc_p0 { top:180px;}
+@-webkit-keyframes cur_zuo { 
+	0%{-webkit-transform:translate3d(0,0,0); opacity:1;}
+	25%{-webkit-transform:translate3d(-20px,0,0); opacity:0.9;}
+	50%{-webkit-transform:translate3d(0,0,0); opacity:1;}
+	75%{-webkit-transform:translate3d(20px,0,0); opacity:0.9;}
+	100%{-webkit-transform:translate3d(0,0,0); opacity:1;}
+  
+}
+@keyframes cur_zuo { 
+	0%{transform:translate3d(0,0,0); opacity:1;}
+	25%{transform:translate3d(-20px,0,0); opacity:0.9;}
+	50%{transform:translate3d(0,0,0); opacity:1;}
+	75%{transform:translate3d(20px,0,0); opacity:0.9;}
+	100%{transform:translate3d(0,0,0); opacity:1;}
+}
+@-webkit-keyframes fangda{  
+   0%{ -webkit-transform:scale(1,1);}
+   50%{ -webkit-transform:scale(1.2,1.2);}
+   100%{ -webkit-transform:scale(1,1);}  
+ }
+@keyframes fangda{  
+   0%{ transform:scale(1,1);}
+   50%{ transform:scale(1.2,1.2);}
+   100%{ transform:scale(1,1);}  
+ }
+
+.new_tc_caid { background:url(http://ossweb-img.qq.com/images/chanpin/tgclub/public/a20160224xinyzc/pop_caid.png) no-repeat center; width:595px; height:652px; position:absolute; left:0; top:0; z-index:1;}
+.new_lef_rig{ -webkit-animation: cur_zuo 8s linear 0s infinite;animation:cur_zuo 8s linear 0s infinite;}
+.new_tc_close{ background:url(http://ossweb-img.qq.com/images/chanpin/tgclub/public/a20160224xinyzc/pop_close.png) no-repeat center; width:41px; height:41px; outline:none; position:absolute; right:0; top:98px; z-index:10;}
+.new_tc_get { background:url(http://ossweb-img.qq.com/images/chanpin/tgclub/public/a20160224xinyzc/pop_get.png) no-repeat center; width:208px; height:54px; top:514px; left:183px; position:absolute; z-index:3;-webkit-animation: fangda linear 2s infinite;animation: fangda linear 2s infinite;
+}
+.new_pop_two {background:url(http://ossweb-img.qq.com/images/chanpin/tgclub/public/a20160224xinyzc/pop_bg2.png) no-repeat center; width:595px; height:652px; display:none; position:relative; z-index:3;}
+.new_pop_three {background:url(http://ossweb-img.qq.com/images/chanpin/tgclub/public/a20160224xinyzc/pop_bg2.png) no-repeat center; width:595px; height:652px; display:none; position:relative; z-index:3;}
+
+.new_tc_p2 { color:#ffcf75; font-size:22px;top:278px;}
+.new_tc_p3 { color:#ffd483; font-size:26px; top:360px; line-height:38px;}
+.new_tc_wechat { width:auto; overflow:hidden; height:123px; position:absolute; left:50%; margin-left:-110px; top:448px;}
+.new_tc_wechat img { margin-right:10px; float:left; _display:inline;}
+.new_tc_wechat img.pop_saoyis { margin-left:-10px;}
+
+/*¶ËÓÎ*/
+.new_tc_qyq { background:url(http://ossweb-img.qq.com/images/chanpin/tgclub/public/a20160224xinyzc/pop_get1.png) no-repeat center; width:208px; height:54px; top:500px; left:183px; position:absolute; z-index:3;-webkit-animation: fangda linear 2s infinite;animation: fangda linear 2s infinite;
+}
+.newo_tc_pcur { top:385px;}
+		.pop_id_1{width:940px;height:444px;background:url(http://ossweb-img.qq.com/images/tgclub/web201410/tips/tips_1.png) no-repeat 0 0;position:relative;}
+	.pop_id_1 .pop_desc{position:absolute;left:431px;top:183px;font-size:18px;width:402px;line-height:37px;}
+	.pop_id_1 .pop_link{position:absolute;left:503px;top:304px;width:275px;height:52px;line-height:2000px;overflow:hidden;}
+	.pop_id_1 .pop_close{position:absolute;right:0;top:0;width:50px;height:44px;line-height:2000px;overflow:hidden;}
+	.pop_id_2{width:940px;height:444px;background:url(http://ossweb-img.qq.com/images/tgclub/web201410/tips/tips_2.png) no-repeat 0 0;position:relative;}
+	.pop_id_2 .pop_desc{position:absolute;left:478px;top:219px;font-size:18px;width:320px;line-height:30px;color:#fff;text-indent:2em;}
+	.pop_id_2 .pop_link{position:absolute;left: 473px;top: 367px;width: 314px;height: 41px;line-height:2000px;overflow:hidden;}
+	.pop_id_2 .pop_close{position:absolute;right:0;top:0;width:50px;height:50px;line-height:50px;overflow:hidden;background:#014d6f;color:#85ddff;font-size:50px;text-align:center;}
